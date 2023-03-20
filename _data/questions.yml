@@ -1,0 +1,782 @@
+---
+- question: >
+    Tomorrow, December 17th, is the anniversary of the first
+    human flight (lasted 12 seconds, in 1903). Who was on board of the famous airplane prototype? 
+  answer: Wright Brothers
+  category: GC 
+
+- question: >
+    Who has been recently nominated “Person of the Year
+    ” for the magazine Time? 
+  answer: Volomir Zelenskyi
+  category: GC 
+
+- question: From which city is Coca-Cola originally from? 
+  answer: Atlanta
+  category: GC 
+
+- question: In which city are the 2024 Olympic Games going to be hosted? 
+  answer: Paris
+  category: GC 
+
+- question: To which country does Easter Island belong? 
+  answer: Ecuador
+  category: GC 
+
+- question: How's called Amsterdam Airport? 
+  answer: Schiphol
+  category: GC 
+
+- question: Which is the color of the live wire? 
+  answer: Brown. Yellow-Green is Earth and Blue is neutral
+  category: GC 
+
+- question: Which is the nationality of the terrible dictator Pol Pot? 
+  answer: Cambodia
+  category: 
+
+- question: How’s called the famous car of Back to the Future? 
+  answer: DeLorean
+  category: 
+
+- question: Which Asian country was originally called Siam? 
+  answer: Thailand
+  category: GC 
+
+- question: Which Victor Hugo novel was adopted into a Disney animated movie? 
+  answer: Notre Dame
+  category: GC 
+
+- question: Which novel of Oscar Wilde has to do with immortality? 
+  answer: The picture of Dorian Gray
+  category: 
+
+- question: >
+    "In Arthur Clark _2001: Space Odissey_ what's the name
+      of the AI Supercomputer? "
+  answer: Al
+  category: 
+
+- question: What's the address of Sherlock Holmes 
+  answer: Baker Street, 221B
+  category: 
+
+- question: Which is the best selling book of all times? 
+  answer: HP, Don Quischotte, The Hobbit, Moby Dick
+  category: GC 
+
+- question: Who is Harry Potter godfather? 
+  answer: Sirius Black
+  category: 
+
+- question: What's the name of the coffee shop in the TV Series Friends? 
+  answer: Central Perk
+  category: 
+
+- question: Which was the most downloaded app in 2021? 
+  answer: TikTok
+  category: GC 
+
+- question: In which city is Romeo and Juliet set? 
+  answer: Verona
+  category: 
+
+- question: Which country grows the most mangoes? 
+  answer: India
+  category: GC 
+
+- question: Which is the most expensive spice in the world by weight? 
+  answer: Saffron
+  category: GC 
+
+- question: >
+    Which Greek dip is made from Yoghurt, cucumber, garlic
+    and olive oil? 
+  answer: Tsatsiki
+  category: GC 
+
+- question: In which English city is the TV city “The Peaky blinders” set? 
+  answer: Birmingham
+  category: 
+
+- question: In tennis, which is the only Grand Slam to be played on grass? 
+  answer: Wimbledon
+  category: 
+
+- question: >
+    Rascasse, Saint Devote, Tunnel, Tabac, Casino are corners
+    of which famous F1 circuit? 
+  answer: Monaco
+  category: 
+
+- question: From which country did the 2022 Tour de France started? 
+  answer: Denmark
+  category: 
+
+- question: In which city was Freddie Mercury born? 
+  answer: Zanzibar
+  category: GC 
+
+- question: Gabriel Lippman, born in Hollerisch in 1845, is famous for what? 
+  answer: Nobel Prize in 1905
+  category: GC 
+
+- question: >
+    How's called in chess the move where you exchange the
+    king with the rook? 
+  answer: Castling
+  category: 
+
+- question: Give 4 countries crossed by the Equator. 
+  answer: >
+      Brazil, Equador, Colombia, Congo Rep Dem, Congo, Uganda
+      , Sao Tome e Principe, Gabon, Kenia, Somalia, Maldives, Indonesia, Kiribati
+  category: 
+
+- question: Give at least 6 Great modern Wonders 
+  answer: >
+      Colosseum, Machu Pichu, Petra-Jordan, Taj Mahal, Great
+      Wall of China, Christ the Redemeer, Chichen Itza-Mexico
+  category: GC 
+
+- question: Which is the size of an A4 paper? 
+  answer: 21 x 29.7
+  category: GC 
+
+- question: Which colors can you find on a Rubik's cube? 
+  answer: Red, White, Yellow, Blue, Green, Orange
+  category: GC 
+
+- question: Among the ingredients of Nori, What is “Nori”? 
+  answer: Sea Weed
+  category: GC 
+
+- question: Which animal appears in the Porsche logo? 
+  answer: a horse
+  category: GC 
+
+- question: How many ghosts show up in a Christmas Carol? 
+  answer: 4
+  category: 
+
+- question: After which famous treat did Luxembourg became a Grand-Duchy? 
+  answer: >
+      "alternatives: Treaty of London, **Congress of Vienna
+        **, treaty of Riswick, After the events of WWII"
+  category: GC 
+
+- question: Which one of these cities has never been Luxembourgish territory? 
+  answer: Arlon, Trier, Metz, Thionville
+  category: GC 
+
+- question: How's called the current UK prime minister? 
+  answer: Rishi Sunak]
+  category: GC 
+
+- question: Cinderella stepsister names 
+  answer: Anastasia and drizella
+  category: 
+
+- question: How many fingers does Mickey Mouse has? 
+  answer: 4, 3 + thumb
+  category: GC 
+
+- question: Only two countries have their map on their flag. Name one. 
+  answer: Kosovo and Cyprus
+  category: GC 
+
+- question: The flag of Paraguay has the unique feature of what? 
+  answer: the flag has two different non-specular sides]
+  category: GC 
+
+- question: Which is the most common color on national flags? 
+  answer: >
+      "Red, 105 flags. Red Blood bravery and sufferance, blue
+      Sky-Ocean but also Peace and freedom, Black: self 
+      determinism ethnic heritage"
+  category: GC 
+
+- question: Which is the only flag in the world that doesn’t have 4 edges? 
+  answer: Nepal
+  category: GC 
+
+- question: Phileas Fogg is the main character of which book? 
+  answer: Around the World in Eighty Days
+  category: 
+
+- question: "Queen Elizabeth II: what was her (complete, married) surname?"
+  answer: Windsor-Mountbatten
+  category: GC 
+
+- question: >
+    How’s called the major Indian festivity, celebrated
+    around the end of October, where is celebrated “victory 
+    of light over darkness, good over evil, and knowledge over ignorance”? 
+  answer: Diwali
+  category: GC 
+
+- question: What’s the most common element in our atmosphere? 
+  answer: Nitrogen
+  category: GC 
+
+- question: >
+    Whatson and Crick have been awarded the Nobel Prize
+    (1962) for the discovery of what? 
+  answer: helyc structure of DNA
+  category: GC 
+
+- question: How’s the current most followed person on Instagram? 
+  answer: >
+      Cristiano Ronaldo (with over 471 million followers.
+      Kylie Jenner is the most-followed woman on Instagram, 
+      with over 362 million followers. Selena Gomez is the 
+      most followed musician and actress on Instagram, 
+      with over 339 million followers.)
+  category: GC 
+
+- question: how many countries are neighbouring with Ukraine? 
+  answer: >
+      "Answer: 7 (Belarus to the north, Russia to the east
+        , the Sea of Azov and the Black Sea to the south, Moldova and Romania to the southwest, and Hungary, Slovakia, and Poland to the west)"
+  category: 
+
+- question: >
+    Which historical Netflix TV Series dramatizes the political
+    and personal events of Queen Elizabeth II? 
+  answer: The Crown
+  category: 
+
+- question: What does Hakuna Matata means? 
+  answer: No worries
+  category: GC 
+
+- question: What’s the name of the father of Nemo, the clownfish? 
+  answer: Marlin
+  category: 
+
+- question: >
+    In the first movie of the Pirates of the Caribbean series
+    , we are introduced to Hector Barbossa – he is a fictional character. His name is based on another famous pirate. Which one? 
+  answer: >
+      Hayreddin Barbarossa. He was a pirate in the Mediterranean
+      sea together with his brother – later he became a grand admiral of the Ottoman Empire
+  category: 
+
+- question: >
+    Which is the only Country in the world to have won all
+    his Olympic medals in the winter Olympic Games? 
+  answer: Liechtenstein
+  category: GC 
+
+- question: >
+    Rudyard Kipling, youngest Literature Nobel Prize winner
+    at the age of 41, is mostly famous for which book? 
+  answer: The Jungle book
+  category: 
+
+- question: >
+    What’s the name of the captain of the Nautilus, the
+    submarine of Jules Verne in Twenty Thousand Leagues Under the Seas?  
+  answer: Nemo
+  category: 
+
+- question: >
+    Nancy Pelosi, speaker of the House of Representatives
+    of the Biden Presidency, is at the moment visiting wich country? 
+  answer: Taiwan
+  category: GC 
+
+- question: >
+    What’s the name of the former Japanese Prime Minister
+    , recently murdered during a campaign speech? 
+  answer: Shinzo Abe
+  category: GC 
+
+- question: Which European Leader recently appeared on the first page of Vogue? 
+  answer: Zelenskyi
+  category: GC 
+
+- question: What’s the most common element in our atmosphere? 
+  answer: Nitrogen
+  category: GC 
+
+- question: >
+    Which popstar has been recently at the centre of a small
+    scandal for throwing pizza slices on the crowd during a Las Vegas concert? 
+  answer: Katy Perry
+  category: GC 
+
+- question: how many countries are neighbouring with brazil? 
+  answer: >
+      "Answer: 9 (Uruguay, Argentina, Paraguay, Bolivia, Peru
+        , Colombia, Venezuela, Guyana and Suriname, and with the French Department of Guiana)"
+  category: 
+
+- question: >
+    Anne Bonny and Mary Read, two famous female pirates
+    were captured. Their crew (all men) were executed. Why were the women spared? 
+  answer: They were pregnant
+  category: GC 
+
+- question: Which one was the Caribbean’s most important pirate haven? 
+  answer: Port Royale
+  category: GC 
+
+- question: >
+    In the Hinduistic mythology, how’s called the Supreme
+    Lord who creates, protects and transforms the universe? 
+  answer: Shiva
+  category: GC 
+
+- question: >
+    What’s the nationality of Alexander Zverev, current
+    number 2 in the ATP ranking. 
+  answer: German
+  category: Sport 
+
+- question: >
+    The tour de France, with more than 3.5 Billion viewers
+    worldwide, is the 3rd most watched sport event in the world after FIFA World Cup and the Olympic Games. Who won the last edition of the Tour de France? 
+  answer: Vingegaard, Denmark
+  category: Sport
+
+- question: >
+    UEFA Women’s Euro Championship, hosted in England, has
+    been won by which team? 
+  answer: England, 2-1 on Germany
+  category: 
+
+- question: How many holes are there in a normal golf course? 
+  answer: 18
+  category: 
+
+- question: >
+    What is the name of the fictitious Minor League Baseball
+    team on The Simpsons? 
+  answer: The Springfield Isotopes
+  category: 
+
+- question: Who is the most decorated Olympian of all times? 
+  answer: Michael Phelps, 28
+  category: 
+
+- question: >
+    Which is the only Country in the world to have won all
+    his Olympic medals in the winter Olympic Games? 
+  answer: Liechtenstein]
+
+- question: How’s called the famous car of Back to the Future? 
+  answer: DeLorean
+  category: 
+
+- question: >
+    In the Norwegian mythology, how’s called the final destruction
+    of the world in the conflict between good and evil, called also Twilight of the Gods? 
+  answer: Ragnarok
+  category: GC 
+
+- question: >
+    Which historical Netflix TV Series dramatizes the political
+    and personal events of Queen Elizabeth II? 
+  answer: The Crown
+  category: 
+
+- question: >
+    Which popular Netflix TV Series has can be described
+    as a mesh up of Pride and Prejudice and an 19th century Gossip Girl? 
+  answer: Bridgerton
+  category: 
+
+- question: How many games were there in Squid Game? 
+  answer: >
+      "6+1: pre/battle round, red light-green light, honeycomb
+        shape cutting, Tug of War, Marbles, Glass stepping stone, Squid Game"
+  category: 
+
+- question: >
+    In the TV Series _You_, what’s the job of the main character
+    Joe Goldberg? 
+  answer: Librarian
+  category: 
+
+- question: Who trained Hercules to become a hero? 
+  answer: Philoctetes
+  category: 
+
+- question: What is the name of Andy’s neighbour in Toy Story? 
+  answer: Sid
+  category: 
+
+- question: Mowgli was raised by what animals in The Jungle Book? 
+  answer: Wolves
+  category: literature 
+
+- question: What’s the name of the father of Nemo, the clownfish? 
+  answer: Marlin
+  category: 
+
+- question: In the 1991 movie _Hook_ – who played the now adult Peter Pan? 
+  answer: Robin Williams
+  category: literature 
+
+- question: >
+    Everyone knows the movies of the series Pirates of the
+    Caribbean. Captain Jack Sparrow, played by Johnny Depp was fictional and so was the character of Will Turner. Do you know which one of the pirates in the third movie was based on a real person? Which was his nationality? 
+  answer: Blackbeard, in the movie he’s the dark and merciless character that plays the father of Penelope Cruz
+  category: literature 
+
+- question: >
+    In the first movie of the Pirates of the Caribbean series
+    , we are introduced to Hector Barbossa – he is a fictional character. His name is based on another famous pirate. Which one? 
+  answer: Hayreddin Barbarossa. He was a pirate in the Mediterranean sea together with his brother – later he became a grand admiral of the Ottoman Empire
+  category: literature 
+
+- question: Who was the first Asian Nobel Prize awardee? 
+  answer: Rabindranath Tagore
+  category: literature 
+
+- question: Do you know the reason why the prize for 2018 was given in 2019? 
+  answer: Sexual harassment scandal
+  category: literature 
+
+- question: >
+    Rudyard Kipling, youngest Literature Nobel Prize winner
+    at the age of 41, is mostly famous for which book? 
+  answer: The Jungle book
+  category: literature 
+
+- question: >
+    "Many books were written about pirates: Treasure Island
+      to this date is one of the most famous ones. Name the author. "
+  answer: Robert Louis Stevenson
+  category: literature 
+
+- question: >
+    Another famous fictional pirate is Captain Hook from
+    Peter Pan. Why does he hate Peter so much? 
+  answer: >
+      Peter cut off his hand and threw it into the sea where
+      it was swallowed by a crocodile
+  category:  literature
+
+- question: Name the carrier/flight of the first atomic bomb, Little Boy. 
+  answer: Enola Gay
+  category: 
+
+- question: >
+    Who's the only person to have won both a Nobel prize
+    and the Fields Medal (the so-called Nobel Prize for mathematics)? 
+  answer: John Nash
+  category: 
+
+- question: How’s called the chatbot developed by OpenAI and launched in November 2022? 
+  answer: Chat GPT
+  category: 
+
+- question: Tomorrow, February 11th is the birthday of the person who currently owns the posthumous record of the biggest number of patents with his name. Who's that person? 
+  answer: Thomas Alva Edison, 1083 patents
+  category: 
+
+- question: Which day was February 10th. 2020? 
+  answer: Monday
+  category: 
+
+- question: What's the name of the ship that brought Charles Darwin to the Galapagos island? 
+  answer: Beagle
+  category: 
+
+- question: Which president is depicted on the 1 dollar bill? 
+  answer: George Washington
+  category: 
+
+- question: Vexillology is the study of what? 
+  answer: Symbols and Flags
+  category: 
+
+- question: Which singer just broke the record of the most-awarded artist at the 2023 Grammy awards? 
+  answer: Beyonce
+  category: 
+
+- question: Michael Jackson’s wife Lisa Marie was the daughter of which famous artist? 
+  answer: elvis
+  category: 
+
+- question: Who won the 2023 Australian Open? 
+  answer: Novak Djokovic
+  category: 
+
+- question: Which athlete just became the winningest female skier in the World Cup History? 
+  answer: Michaela Shiffrin
+  category: 
+
+- question: Lebron James just become the highest all time scorer in the history of NBA. Who owned the previous record? 
+  answer: Kareem Abdul-Jabaar]
+  category: 
+
+- question: Baron Pierre de Cubertin is famous for the invention of what? 
+  answer: Modern Olympic Games
+  category: 
+
+- question: Which are the teams of the 6 nations in rugby? 
+  answer: Italy, France, Ireland, England, Scotland, Wales
+  category: 
+
+- question: Statue of Liberty holds the torch in the right or left arm? 
+  answer: Right
+  category: 
+
+- question: Does New Zealand drive on the right or on the left? 
+  answer: Left
+  category: 
+
+- question: Does Michelangelo’s David hold his sling on the left or right hand? 
+  answer: left
+  category: 
+
+- question: In the chess game, does the white queen sit on the right or on the left of the king? 
+  answer: left
+  category: 
+
+- question: Analytical thinkers are supposed to be using more their right or left part? 
+  answer: left
+  category: 
+
+- question: The wine Port is always traditionally served from right or left? 
+  answer: left]
+  category: 
+
+- question: On which side is the liver located in human body? 
+  answer: right
+  category: 
+
+- question: Rocky Balboa was right-handed or left handed? 
+  answer: Left handed
+  category: 
+
+- question: In a formal place setting, which side is the spoon on? 
+  answer: right
+  category: 
+
+- question: In Peter Pan, which hand is Captain Hook's hook on? 
+  answer: left
+  category: literature 
+
+- question: Which side of a plane will you always board on? 
+  answer: left
+  category: 
+
+- question: Which is the biggest country in the world without any permanent river? 
+  answer: Saudi Arabia
+  category: 
+
+- question: Which is the country with the biggest number of rivers? 
+  answer: Russia]
+  category: 
+
+- question: There are only two doubly-landlocked countries in the world. Can you name at least one? 
+  answer: Uzbekistan, Liechtenstein
+  category: 
+
+- question: The words order and progress appear in which national flag? 
+  answer: Brazil
+  category: 
+
+- question: Name at least two countries belonging to the Visegrad Group. 
+  answer: Slovakia, Hungary, Poland, Czechia
+  category: 
+
+- question: How's it commonly known as the union jack? 
+  answer: UK flag
+  category: 
+
+- question: With over 2,000 beers on sale, Delíríum Café is said to have the most varieties of beer commercially available in a venue. In which city can you find this establishment? 
+  answer: Brussels, Belgium
+  category: 
+
+- question: Where was Pilsner invented? 
+  answer: Pilsen, Czech Republic]
+  category: 
+
+- question: How's called the small monkey, the best friend of Ross in the TV Series Friends? 
+  answer: Marcel]
+  category: 
+
+- question: In which US city does the tv series "The Office" takes place? 
+  answer: Scranton, Pennsylvania
+  category: 
+
+- question: What's the brand of the watches of James Bond? 
+  answer: Omega
+  category: 
+
+- question: What’s the nickname of Arsene Lupin? 
+  answer: Gentleman thief
+  category:  literature
+
+- question: Attending Jonas Jonasson, how old was the man that climbed out of the window and disappeared? 
+  answer: 100
+  category: 
+
+- question: How many are the girls in the book “Little Women”? 
+  answer: 4
+  category: 
+
+- question: what's the name of the comic strip with Snoopy and Charlie Brown? 
+  answer: Peanuts
+  category: 
+
+- question: "Where do the Simpsons relocate to in the movie: The Simpsons Movie?"
+  answer: Alaska
+  category: 
+
+- question: Which is the favorite number of Sheldon, in the tv series “Big Bang Theory”? 
+  answer: 73
+  category: 
+
+- question: Which artists hosted the 2023 Super Bowl half time show? 
+  answer: Rihanna
+  category: 
+
+- question: The Little mermaid is coming from which city? 
+  answer: Copenhagen]
+  category:  literature
+
+- question: Which board game table, with more than a thousand versions and translated in more than 47 languages, was invented March 7th, 1933 in Atlantic city? 
+  answer: Monopoly -> banned by the royal family, the guy is based on JP morgan
+  category: 
+
+- question: Which constellation/stars are present in the Subaru Logo? 
+  answer: Pleiads/Orion Belt
+  category: 
+
+- question: En passant, Ruy-Lopez, giuoco pianissimo, Indian Defence, and fianchetto are popular moves in which game? 
+  answer: Chess]
+  category: 
+
+- question: Which is the brand of the car of James Bond? 
+  answer: Aston Martin
+  category: 
+
+- question: What’s called the main bar/pub in How I met your mother? 
+  answer: McLaren’s pub]
+  category: 
+
+- question: Most popular and used Internet browser in the world? 
+  answer: Google Chrome, 65% of the internet traffic
+  category: 
+
+- question: How's called the restaurant at the second floor of the Eiffel tower 
+  answer: Jules Verne
+  category: 
+
+- question: Where are the ABBA from? 
+  answer: Sweden
+  category: 
+
+- question: Brian Cranston (famous for the TV series braking Bad) was already famous for which TV series? 
+  answer: Malcolm in the middle
+  category: 
+
+- question: Which is the biggest bank in Luxembourg? 
+  answer: Spuerkess - BCEE
+  category: 
+
+- question: Which animal is the symbol of Berlin? 
+  answer: Bear
+  category: 
+
+- question: During the election of a new pope, which is the color of the smoke denoting a successful election? 
+  answer: White
+  category: 
+
+- question: Nike, the brand, takes its name from the Greek goddess Nike, the goddess of what? 
+  answer: Victory
+  category: 
+
+- question: Which country was originally called "New Holland"? 
+  answer: Australia
+  category: 
+
+- question: How many US presidents did Queen Elizabeth II meet? 
+  answer: Biden, Trump, Obama, Bush, Clinton, Bush senior, Reagan, Carter, Ford, Truman, Eisenhover, Kennedy, Nixon, + Lindon Johnoson
+  category: 
+
+- question: If I am at the Guggenheim museum, in which city am I? 
+  answer: New York
+  category: 
+
+- question: Which islands, in front of the coasts of Argentina, are also called the “Malvinas” islands? 
+  answer: Falkland Islands
+  category: 
+
+- question: What was the ruling family's family name at the time of the Russian revolution? (8 marzo) 
+  answer: Romanov
+  category: 
+
+- question: How many monarchies do we have in Europe? 
+  answer: 12
+  category: 
+
+- question: Which is the rarest color on national flags? 
+  answer: Purple, present only on Nicaragua and Dominica
+  category: 
+
+- question: What is erroneously considered the 51st American State? 
+  answer: Porto Rico
+  category: 
+
+- question: If from the city of New York we start moving east wise, which is the first European country that we find? 
+  answer: Portugal, between Porto and Lisbon
+  category: 
+
+- question: If I am in the Maracana Stadium, in which city am I? 
+  answer: Rio de Janeiro
+  category: 
+
+- question: Which is the longest river in the world? 
+  answer: Nile
+  category: 
+
+- question: Which country is known as the hellenic Republic? 
+  answer: Greece
+  category: 
+
+- question: Who has (man and woman) the most nominees for acting roles in the history of Oscars (2 points)? 
+  answer: Maryl Streep and Jack Nicholson
+  category: 
+
+- question: Who is the all time oscars winner? 
+  answer: Walt Disney, 22 Oscars
+  category: 
+
+- question: Most watched TV series in 2022 (by minutes)? 
+  answer: 1. Stranger Things, 2. Ozark, 3. Wednesday]
+  category: TV-Series 
+
+- question: What novel starts with “Call me Ishmael”? 
+  answer: Moby Dick
+  category:  literature
+
+- question: According to Ray Bradbury, at which temperature does paper burn? 
+  answer: Fahrenheit 451
+  category:  literature
+
+- question: where can you find the sentence “All happy families are alike; each unhappy familiy is unhappy in its own way” 
+  answer: Tolstoy, Anna Karenina
+  category:  literature
+
+- question: How’s called the assistant of Robinson Crusoe? 
+  answer: Friday
+  category: literature 
+
+- question: Jules Verne | Journey to the center of the Earth | the trip starts from an inactive volcano in which country? 
+  answer: "suggestion: Germany, Japan, **Iceland**, Nicaragua"
+  category: literature 
+
+- question: What is the title of the Pulitzer Prize winning novel by Edith Wharton? 
+  answer: The age of Innocence
+  category: literature 
+
+
+
+
