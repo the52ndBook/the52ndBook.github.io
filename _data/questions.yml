@@ -45,29 +45,29 @@
 
 - question: Which Victor Hugo novel was adopted into a Disney animated movie? 
   answer: Notre Dame
-  category: GC 
+  category: literature
 
 - question: Which novel of Oscar Wilde has to do with immortality? 
   answer: The picture of Dorian Gray
-  category: 
+  category: literature
 
 - question: >
-    "In Arthur Clark _2001: Space Odissey_ what's the name
+    "In Arthur Clark <i>2001: Space Odissey</i> what's the name
       of the AI Supercomputer? "
   answer: Al
-  category: 
+  category: literature
 
 - question: What's the address of Sherlock Holmes 
   answer: Baker Street, 221B
-  category: 
+  category: literature
 
 - question: Which is the best selling book of all times? 
-  answer: HP, Don Quischotte, The Hobbit, Moby Dick
+  answer: HP, <b>Don Quischotte</b>, The Hobbit, Moby Dick
   category: GC 
 
 - question: Who is Harry Potter godfather? 
   answer: Sirius Black
-  category: 
+  category: literature
 
 - question: What's the name of the coffee shop in the TV Series Friends? 
   answer: Central Perk
@@ -79,7 +79,7 @@
 
 - question: In which city is Romeo and Juliet set? 
   answer: Verona
-  category: 
+  category: literature
 
 - question: Which country grows the most mangoes? 
   answer: India
@@ -157,7 +157,7 @@
 
 - question: How many ghosts show up in a Christmas Carol? 
   answer: 4
-  category: 
+  category: literature
 
 - question: After which famous treat did Luxembourg became a Grand-Duchy? 
   answer: >
@@ -166,7 +166,7 @@
   category: GC 
 
 - question: Which one of these cities has never been Luxembourgish territory? 
-  answer: Arlon, Trier, Metz, Thionville
+  answer: Arlon, <b>Trier</b>, Metz, Thionville
   category: GC 
 
 - question: How's called the current UK prime minister? 
@@ -175,11 +175,11 @@
 
 - question: Cinderella stepsister names 
   answer: Anastasia and drizella
-  category: 
+  category: Disney
 
 - question: How many fingers does Mickey Mouse has? 
   answer: 4, 3 + thumb
-  category: GC 
+  category: GC
 
 - question: Only two countries have their map on their flag. Name one. 
   answer: Kosovo and Cyprus
@@ -202,7 +202,7 @@
 
 - question: Phileas Fogg is the main character of which book? 
   answer: Around the World in Eighty Days
-  category: 
+  category: literature
 
 - question: "Queen Elizabeth II: what was her (complete, married) surname?"
   answer: Windsor-Mountbatten
@@ -225,7 +225,7 @@
   answer: helyc structure of DNA
   category: GC 
 
-- question: How’s the current most followed person on Instagram? 
+- question: Who is the current most followed person on Instagram? 
   answer: >
       Cristiano Ronaldo (with over 471 million followers.
       Kylie Jenner is the most-followed woman on Instagram, 
@@ -236,8 +236,9 @@
 
 - question: how many countries are neighbouring with Ukraine? 
   answer: >
-      "Answer: 7 (Belarus to the north, Russia to the east
-        , the Sea of Azov and the Black Sea to the south, Moldova and Romania to the southwest, and Hungary, Slovakia, and Poland to the west)"
+      "Answer: 7 (Belarus to the north, Russia to the east, 
+      the Sea of Azov and the Black Sea to the south, Moldova 
+      and Romania to the southwest, and Hungary, Slovakia, and Poland to the west)"
   category: 
 
 - question: >
@@ -248,11 +249,11 @@
 
 - question: What does Hakuna Matata means? 
   answer: No worries
-  category: GC 
+  category: Disney 
 
 - question: What’s the name of the father of Nemo, the clownfish? 
   answer: Marlin
-  category: 
+  category: Disney
 
 - question: >
     In the first movie of the Pirates of the Caribbean series
@@ -272,13 +273,13 @@
     Rudyard Kipling, youngest Literature Nobel Prize winner
     at the age of 41, is mostly famous for which book? 
   answer: The Jungle book
-  category: 
+  category: literature
 
 - question: >
     What’s the name of the captain of the Nautilus, the
     submarine of Jules Verne in Twenty Thousand Leagues Under the Seas?  
   answer: Nemo
-  category: 
+  category: literature
 
 - question: >
     Nancy Pelosi, speaker of the House of Representatives
@@ -401,11 +402,11 @@
 
 - question: Who trained Hercules to become a hero? 
   answer: Philoctetes
-  category: 
+  category: Disney
 
 - question: What is the name of Andy’s neighbour in Toy Story? 
   answer: Sid
-  category: 
+  category: Disney
 
 - question: Mowgli was raised by what animals in The Jungle Book? 
   answer: Wolves
@@ -413,7 +414,7 @@
 
 - question: What’s the name of the father of Nemo, the clownfish? 
   answer: Marlin
-  category: 
+  category: Disney
 
 - question: In the 1991 movie _Hook_ – who played the now adult Peter Pan? 
   answer: Robin Williams
@@ -461,7 +462,7 @@
 
 - question: Name the carrier/flight of the first atomic bomb, Little Boy. 
   answer: Enola Gay
-  category: 
+  category: GC
 
 - question: >
     Who's the only person to have won both a Nobel prize
@@ -570,7 +571,7 @@
   category: 
 
 - question: Which is the country with the biggest number of rivers? 
-  answer: Russia]
+  answer: Russia
   category: 
 
 - question: There are only two doubly-landlocked countries in the world. Can you name at least one? 
@@ -598,7 +599,7 @@
   category: 
 
 - question: How's called the small monkey, the best friend of Ross in the TV Series Friends? 
-  answer: Marcel]
+  answer: Marcel
   category: 
 
 - question: In which US city does the tv series "The Office" takes place? 
@@ -615,15 +616,15 @@
 
 - question: Attending Jonas Jonasson, how old was the man that climbed out of the window and disappeared? 
   answer: 100
-  category: 
+  category: literature
 
 - question: How many are the girls in the book “Little Women”? 
   answer: 4
-  category: 
+  category: literature
 
 - question: what's the name of the comic strip with Snoopy and Charlie Brown? 
   answer: Peanuts
-  category: 
+  category: literature
 
 - question: "Where do the Simpsons relocate to in the movie: The Simpsons Movie?"
   answer: Alaska
@@ -635,7 +636,7 @@
 
 - question: Which artists hosted the 2023 Super Bowl half time show? 
   answer: Rihanna
-  category: 
+  category: GC
 
 - question: The Little mermaid is coming from which city? 
   answer: Copenhagen]
@@ -650,7 +651,7 @@
   category: 
 
 - question: En passant, Ruy-Lopez, giuoco pianissimo, Indian Defence, and fianchetto are popular moves in which game? 
-  answer: Chess]
+  answer: Chess
   category: 
 
 - question: Which is the brand of the car of James Bond? 
@@ -658,7 +659,7 @@
   category: 
 
 - question: What’s called the main bar/pub in How I met your mother? 
-  answer: McLaren’s pub]
+  answer: McLaren’s pub
   category: 
 
 - question: Most popular and used Internet browser in the world? 
@@ -667,7 +668,7 @@
 
 - question: How's called the restaurant at the second floor of the Eiffel tower 
   answer: Jules Verne
-  category: 
+  category: GC
 
 - question: Where are the ABBA from? 
   answer: Sweden
@@ -683,7 +684,7 @@
 
 - question: Which animal is the symbol of Berlin? 
   answer: Bear
-  category: 
+  category: GC
 
 - question: During the election of a new pope, which is the color of the smoke denoting a successful election? 
   answer: White
@@ -714,8 +715,8 @@
   category: 
 
 - question: How many monarchies do we have in Europe? 
-  answer: 12
-  category: 
+  answer: 12 (Vatican, Andorra, Belgium, Netherlands, Denmark, Luxembourg, Spain, Norway, Sweden, UK, Liechtenstein, Monaco)
+  category: GC
 
 - question: Which is the rarest color on national flags? 
   answer: Purple, present only on Nicaragua and Dominica
@@ -760,6 +761,10 @@
 - question: According to Ray Bradbury, at which temperature does paper burn? 
   answer: Fahrenheit 451
   category:  literature
+  note: >
+    While at the time of Ray Bradbury was not known, it is now common knowledge that 
+    paper ignites at around 480 F- 249 C (and not 451 F - 232 Celsius) and it gets far hotter once it's burning. 
+    The temperature at the center of a paper fire is 1,500 degrees Fahrenheit, give or take a couple hundred. 
 
 - question: where can you find the sentence “All happy families are alike; each unhappy familiy is unhappy in its own way” 
   answer: Tolstoy, Anna Karenina
@@ -776,7 +781,3 @@
 - question: What is the title of the Pulitzer Prize winning novel by Edith Wharton? 
   answer: The age of Innocence
   category: literature 
-
-
-
-
