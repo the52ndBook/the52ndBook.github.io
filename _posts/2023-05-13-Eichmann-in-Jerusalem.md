@@ -35,13 +35,15 @@ Already by the time of its publication, as written in the postscript, the book a
 This book, despite its historical importance, must be considered for what it is, i.e., a trial report.
 The author goes in great detail through the entire trial documenting witnesses, arguments and defense arguments for one of the most famous trials in history where the crime has no precedents and does not appear in any law book. The following article focuses especially in the last two sections of the book, the Epilogue and the Postscript, where the author gives her personal opinion on the entire trial and its outcome. 
 
-What follows is mainly inspired (and in some sections is a fairly detailed reproduction of the transcript) of an ![extremely inspiring resource](https://www.youtube.com/watch?v=2LjAESuTW-U) that I found online. Feel free to check it out if you want.
+What follows is mainly inspired (and in some sections is a fairly detailed reproduction of the transcript) of an extremely inspiring resource that I found online. Feel free to check it out if you want.
+
+{% include youtube.html id="2LjAESuTW-U" %}
 
 The entire message that Arendt want to give to the reader is a matter of political agency and responsibility; Eichmann was on trial in 1961 for his participation in the holocaust, since he was instrumental to the systematic extermination of millions of jews as well as other persecuted peoples in nazi Germany.
 
 Throughout her work, Arendt consistently arguments against the prosecution's portrait of Eichmann as some kind of monster or criminal mastermind. Despite all the efforts of the prosecution, everybody could see that this man was not a monster, but it was difficult indeed not to suspect that he was a clown; it's this characterization of Eichmann as a clown that drew a lot of criticism.
 
-![Alt text](assets/images/fool.jpg)
+![Fool](/assets/images/fool.jpg)
 
 One could argue that in portraying Eichmann as a fool, portraying him as a living joke, Arendt goes too far and there is debate about whether her characterization of Eichmann is accurate or not: one of the crucial things for you to recognize as you're reading this book is that Arendt is not persuaded that Eichmann is some kind of criminal mastermind.
 
@@ -55,7 +57,7 @@ Arendt suggests this is the fundamental key to the whole case, but she says no o
 
 So let's think about this:
 
-![Logical Fallacy](assets/images/Eichmann_guiltiness.jpg)
+![Logical Fallacy](/assets/images/Eichmann_guiltiness.jpg)
 
 So what explains that? was he insane? was he a monster?
 
